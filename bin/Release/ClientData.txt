@@ -1,0 +1,23 @@
+label2=0
+label5=0
+label8=0
+label11=0
+label43=1
+label46=0
+label49=0
+label52=0
+label57=1
+label61=0
+label65=1
+label70=0
+uscount=0
+italycount=0
+canadacount=0
+germanycount=0
+romaniacount=0
+swedencount=0
+chinacount=0
+othercount=1
+GridDataStart
+127.0.0.1|Unknown|Microsoft Windows 11 Pro|ZIP|62336408|1|0|0|0|1|1|0|0
+GridDataEnd
