@@ -1,7 +1,7 @@
 # ZeroTrace-Stealer-13-2026
 ZeroTrace Is Designed To Steal Data/Information Alot Of Stuff From Client And Send To Server.
 
-Updated To Latest Chrome Cookies/Passwords
+⚠️ Outdated, only latest versions updating
 
 ![1](https://github.com/user-attachments/assets/5b337ccc-d609-4029-a082-aa43c5762334)
 ![2](https://github.com/user-attachments/assets/f71a20f7-fa5e-4d99-9718-cb55b947e2cc)
